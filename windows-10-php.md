@@ -4,7 +4,7 @@
 
 While working on this it's important to remember that you want an easy way to update everything and not get a crazy headache working in a windows environment (which isn't really super easy to do).
 
-So we install [Chocolatey - The package manager for Windows](https://chocolatey.org/)
+So we install a package manager on windows called [Chocolatey](https://chocolatey.org/) because that will allow us to install things quicker. (For understanding what Chocolatey does, (click here)[https://chocolatey.org/docs/getting-started#what-is-chocolatey])
 
 Then follows a long list of installs...
 
@@ -43,6 +43,6 @@ npm install --global --production windows-build-tools@4.0.0
 
 To begin actually working on things now, you'll want to launch Laragon, and set up a new project within it.
 
-You can follow Laragon documentation on how to work on what you're wanting to complete.
+(You can follow Laragon documentation on how to work on what you're wanting to complete.)[https://laragon.org/]
 
 Cheers!
