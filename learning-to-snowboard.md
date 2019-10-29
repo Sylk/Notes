@@ -43,10 +43,28 @@ The following are links to different types of gear one would need getting into s
 
 ## Snowboarding
 
-Learning how to snowboard will be hard, there are things you'll have to keep in your mind.
+### Mountain Resorts
 
-[Intro to Snowboarding](https://www.rei.com/learn/series/intro-to-snowboarding)
+Before even jumping on a board, you'll need to know where you're going to try and go snowboarding. In Colorado there are many ways you can decide what spots you'll hit.
+
+The easiest way to scattershot and collect many passes to visit new places is to grab either an [Ikon Season Pass](https://www.ikonpass.com/) or the [Epic Season Pass](https://www.epicpass.com/). They are both good for a singular season, and both have different areas.
+
+Notable mountains for myself in the Ikon pass are Copper Mountain, Winter Park Resort, Steamboat.
+
+While Epic Pass provides access to KeyStone, Breckenridge, and 10 days at Vail.
+
+I personally chose the Ikon Pass due to the quality being much better and  the prices remaining nearly identical when you buy the local passes.
+
+### Back Country
+
+This is a topic I'm not fairly familiar with, and will add info when learning more. Until then, I have this excerpt.
 
 Going to the backcountry is something that can be done once you've passed the test of truly being able to work on the main mountain in resorts.
 
 [Beginner's Guide to Backcountry Snowboarding](https://www.rei.com/learn/expert-advice/beginner-s-guide-to-backcountry-skiing-and-snowboarding.html)
+
+### Technique
+
+Learning how to snowboard will be hard, there are things you'll have to keep in your mind.
+
+[Intro to Snowboarding \| REI Expert Advice](https://www.rei.com/learn/series/intro-to-snowboarding)
