@@ -22,10 +22,8 @@ The following are links to different types of gear one would need getting into s
 
 [Snowboard Boots: How to Choose \| REI Expert Advice](https://www.rei.com/learn/expert-advice/snowboard-boots.html)
 
-Here's a snapshot of someones entire collection of gear.
-[Gear all ready for 4 weeks on the snow this season!](https://www.reddit.com/r/snowboarding/comments/dngvbh/gear_all_ready_for_4_weeks_on_the_snow_this/)
 
-![5acafcd7.png](:storage\145d1e96-4288-49d5-af62-380861d1b0d1\a13073ad.png)
+[Here's a snapshot of someones entire collection of gear.](https://www.reddit.com/r/snowboarding/comments/dngvbh/gear_all_ready_for_4_weeks_on_the_snow_this/)
 
 ---
 
