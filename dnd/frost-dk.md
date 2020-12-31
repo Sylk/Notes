@@ -6,7 +6,7 @@ Half caster that uses the paladin spell count/list.
 | 1     |     |     |     |     |     |
 | 2     |  2  |     |     |     |     |
 | 3     |  3  |     |     |     |     |
-| 4     |  3  |    |     |     |     |
+| 4     |  3  |     |     |     |     |
 | 5     |  4  |  2  |     |     |     |
 | 6     |  4  |  2  |     |     |     |
 | 7     |  4  |  3  |     |     |     |
@@ -24,7 +24,6 @@ Half caster that uses the paladin spell count/list.
 | 19    |  4  |  3  |  3  |  3  |   2 |
 | 20    |  4  |  3  |  3  |  3  |   2 |
 
-![78d7cee5.png](:storage\f1e442af-6102-41e7-a030-ce8f4608c4c9\78d7cee5.png)
 
 ### Passives
     * Immune to effects of cold weather and resistance to frost.
