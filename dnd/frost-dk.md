@@ -1,4 +1,6 @@
-## Frost DK Abilities - Home Brewed DND 5e
+## Frost DK Abilities Home Brewed
+
+We have a reaction when we get
 
 Half caster that uses the paladin spell count/list.
 | Level | 1st | 2nd | 3rd | 4th | 5th |
@@ -24,12 +26,14 @@ Half caster that uses the paladin spell count/list.
 | 19    |  4  |  3  |  3  |  3  |   2 |
 | 20    |  4  |  3  |  3  |  3  |   2 |
 
-
 ### Passives
     * Immune to effects of cold weather and resistance to frost.
     * Walk on water (actual path of frost applies to 60 
     feet away)
     * Undead are not immediately hostile
+
+### Other Class Passive
+  Use UA revised ranger for Beast Conclave for a pet [skeleton](https://5e.tools/bestiary.html#skeleton_mm) made of ice and bones.
 
 ### TODO: Rune forging - Class Feature
 
