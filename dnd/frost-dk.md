@@ -27,13 +27,27 @@ Half caster that uses the paladin spell count/list.
 | 20    |  4  |  3  |  3  |  3  |   2 |
 
 ### Passives
-    * Immune to effects of cold weather and resistance to frost.
-    * Walk on water (actual path of frost applies to 60 
-    feet away)
-    * Undead are not immediately hostile
+    * Frozen Veins
+      * Immune to effects of cold weather and resistance to frost.
+    * Path of Frost
+      * You and your chosen comrades are capable of walking on water. When you step on it, it freezes over. This aura covers up to 60 feet from you.
+    * You not dangerous
+      * Undead are not immediately hostile
 
 ### Other Class Passive
   Use UA revised ranger for Beast Conclave for a pet [skeleton](https://5e.tools/bestiary.html#skeleton_mm) made of ice and bones.
+  
+  Coordinated Attack
+  * Beginning at 5th level you and your animal companion form a more potent fighting team. When you use the Attack action on your turn, if your companion can see you, it can use its reaction to make a melee attack.
+  
+  Beast's Defense
+  * At 7th level, while your companion can see you, it has advantage on all saving throws.
+
+  Storm of Claws and Fangs
+  * At 11th level your companion can use its action to make a melee attack against each create of its choice within 5 feet of it, with a separate attack roll for each target.
+
+  Superior Beast's Defense
+  * At 15th level, whenever an attacker that your companion can see hits it with an attack, it can use its reaction to halve the attack's damage against it.
 
 ### TODO: Rune forging - Class Feature
 
