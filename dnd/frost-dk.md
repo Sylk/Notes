@@ -49,7 +49,30 @@ Half caster that uses the paladin spell count/list.
   Superior Beast's Defense
   * At 15th level, whenever an attacker that your companion can see hits it with an attack, it can use its reaction to halve the attack's damage against it.
 
-### TODO: Rune forging - Class Feature
+### Rune forging - Class Feature
+
+As a part of a long rest, you may inscribe arcane runes onto a melee weapon you possess. Each weapon may only have one rune inscribed on them at a time. You may inscribe a number of weapons equal to your proficiency modifier.
+
+*Rune of Razorice* - This rune empowers your weapon with ice, causing it to deal an extra d4 cold damage whenever you hit with an attack. This damage increases to a d6 at 5th level, a d8 at 11th level and a d10 at 17th level.
+
+*Rune of the Fallen Crusader* - This rune empowers your weapon with increased tenacity. Whenever you attack with a weapon with this rune, you gain temporary hit points equal to the damage you dealt.
+
+*Rune of the Stoneskin Gargoyle* - This rune empowers your weapon with increased accuracy and defense. Any weapon with this rune gains a +2 to attack rolls and you have a +2 bonus to your armor class while wielding this weapon.
+
+###  notes from the author
+basically i wanted to get the old incentivized gameplay that comes from each rune that being dual wield frost w/ razorice, 2h frost/UH with fallen crusader and blood with stoneskin
+
+razorice is the one im most happy with it was also the easiest design due to the wow version just being *more damage*
+
+stoneskin is intended to be a shield replacement since, if we're actually going full DK, shield proficiency should get axed
+
+fallen crusader im still not super sure on, i want it to incentivize using a big weapon hence the *equal to damage dealt* but it feels like its competing too much with stoneskin gargoyle (which could be remedied by making death strike give temp HP instead of just restoring HP, since temp HP doesnt stack) and not enough with razorice, but im currently unsure how to give it extra damage without incentivizing extra attacks
+
+also all this shit would be the level 2 ability, officially replacing action surge
+
+
+
+
 
 ### DeathStrike - Class feature 
     Once per turn when you hit an enemy with a melee weapon attack, you can choose to heal for an amount equal to the damage you deal
