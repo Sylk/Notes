@@ -1,8 +1,6 @@
-## Frost DK Abilities Home Brewed
+## Death Knight - DND Home Brewed class
 
-We have a reaction when we get
-
-Half caster that uses the paladin spell count/list.
+The sell of DK is that it's Half caster class that uses the paladin spell count/list. With a few bonuses from UA Ranger.
 | Level | 1st | 2nd | 3rd | 4th | 5th |
 |:----- |:---:|:---:|:---:|:---:| ---:|
 | 1     |     |     |     |     |     |
@@ -69,9 +67,6 @@ stoneskin is intended to be a shield replacement since, if we're actually going 
 fallen crusader im still not super sure on, i want it to incentivize using a big weapon hence the *equal to damage dealt* but it feels like its competing too much with stoneskin gargoyle (which could be remedied by making death strike give temp HP instead of just restoring HP, since temp HP doesnt stack) and not enough with razorice, but im currently unsure how to give it extra damage without incentivizing extra attacks
 
 also all this shit would be the level 2 ability, officially replacing action surge
-
-
-
 
 
 ### DeathStrike - Class feature 
