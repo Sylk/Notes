@@ -107,6 +107,7 @@ also all this shit would be the level 2 ability, officially replacing action sur
     * 10 foot radius
     Every target of choosing con save vs being poisoned for 1 minute or until save is passed. (Disadvantage on attack rolls and ability checks)
     If up cast nothing happens
+      * Those affected by this, do their saves on the end of their turn
 
 ### Pillar of Frost - 3rd level
     * Duration 1 minute concentration
