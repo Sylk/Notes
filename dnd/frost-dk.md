@@ -113,7 +113,7 @@ also all this shit would be the level 2 ability, officially replacing action sur
     * Duration 1 minute concentration
     For the duration your attacks do an additional d8 cold damage, and you have advantage on strength saving throws
 
-### Breath of Syndragosa - 3rd (Rebranded fireball)
+### Breath of Sindragosa - 3rd (Rebranded fireball)
     * 30 foot cone
     Dex save if you pass you take half damage, if you fail you take full damage and creates difficult 8d6 cold damage
     * If upcast add 1d6 for every higher level
